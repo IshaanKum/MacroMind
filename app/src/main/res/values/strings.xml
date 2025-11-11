@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MacroMind</string>
+    <string-array name="gender_options">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="activity_options">
+        <item>Physical Activity</item>
+        <item>Sedentary</item>
+        <item>Lightly Active</item>
+        <item>Moderately Active</item>
+        <item>Very Active</item>
+        <item>Extra Active</item>
+    </string-array>
+
+    <string-array name="need_options">
+        <item>Goals</item>
+        <item>Maintenance</item>
+        <item>Weight Loss</item>
+        <item>Weight Gain</item>
+    </string-array>
+
+</resources>
