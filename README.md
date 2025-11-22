@@ -1,10 +1,14 @@
 # MacroMind Calorie Calculator & Diet Planner
 
+https://github.com/user-attachments/assets/7a1cb858-6993-4e2c-ba0d-4a9a7e25dba9
+
 This project is a practical demonstration of the Model-View-ViewModel (MVVM) architecture in an Android application. It serves as a calorie calculator that provides personalized daily calorie estimates and diet plans based on user input.
 
 ## Core Concept
 
 The MVVM pattern separates the application into three interconnected components:
+
+
 
 *   **Model**: Represents the data and business logic. In this app, it's the `UserData` class that holds the user's input. It is completely unaware of the UI.
 *   **View**: The UI of the application (Activities, Fragments, XML layouts). Its job is to display data and forward user actions (like button clicks) to the ViewModel.
